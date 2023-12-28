@@ -1,13 +1,13 @@
 ```markdown
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/PromptPerfekt/main/path/to/your/logo.png" width="120">
+  <img src="https://raw.githubusercontent.com/Nipurn123/PromptPerfekt/main/path/to/your/logo.png" width="120">
   <br>
   <h1 align="center">🚀 Prompt Perfekt</h1>
   <p align="center">Engage in Intelligent Conversations with the Power of OpenAI GPT!</p>
 </p>
 
 <div align="center">
-  [![GitHub Repo stars](https://img.shields.io/github/stars/YourUsername/PromptPerfekt?style=social)](https://github.com/YourUsername/PromptPerfekt/stargazers)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/Nipurn123/PromptPerfekt?style=social)](https://github.com/Nipurn123/PromptPerfekt/stargazers)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 </div>
 
@@ -41,7 +41,7 @@ Prompt Perfekt is not just a chatbot; it's your gateway to dynamic, context-awar
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/PromptPerfekt.git
+   git clone https://github.com/Nipurn123/PromptPerfekt.git
    ```
 
 2. **Navigate to the project directory:**
@@ -86,7 +86,7 @@ We welcome contributions! If you'd like to contribute, please follow these guide
 
 ## 🐞 Issues and Bug Reports
 
-If you encounter any issues or bugs, [create a new issue](https://github.com/YourUsername/PromptPerfekt/issues). Include details about the problem and steps to reproduce it.
+If you encounter any issues or bugs, [create a new issue](https://github.com/Nipurn123/PromptPerfekt/issues). Include details about the problem and steps to reproduce it.
 
 ---
 
@@ -122,5 +122,3 @@ For questions, suggestions, or collaboration opportunities, feel free to reach o
 
 **Happy Chatting with Prompt Perfekt! 🚀**
 ```
-
-This revised README.md incorporates copywriting techniques to make the content more engaging, concise, and visually appealing. It includes emojis, headers, dividers, and a balanced mix of text and visuals for a more attractive and user-friendly presentation.
