@@ -1,6 +1,6 @@
 ```markdown
 <p align="center">
-<img src="<img src="<img src="https://raw.githubusercontent.com/Nipurn123/Prompt_Perfekt-/main/Images/pngimg.com%20-%20mario_PNG125.png" width="120">
+<img src="https://github.com/Nipurn123/Prompt_Perfekt-/blob/main/Images/pngimg.com%20-%20mario_PNG125.png"width="120">
 
 
   <br>
